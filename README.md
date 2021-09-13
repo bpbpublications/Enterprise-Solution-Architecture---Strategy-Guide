@@ -23,4 +23,5 @@ Furthermore, this book highlights all the industry-specific processes which are 
 ## Related Products
 * [Mastering Azure Serverless Computing](https://in.bpbonline.com/products/mastering-azure-serverless-computing?_pos=1&_sid=a3c9e5eed&_ss=r)
 * [Building Enterprise Blockchain Solutions on AWS](https://in.bpbonline.com/products/serverless-computing-using-azure-functions?_pos=1&_sid=fe2d3f45d&_ss=r)
-* [https://in.bpbonline.com/products/building-enterprise-blockchain-solutions-on-aws?_pos=3&_sid=f3137f894&_ss=r](https://in.bpbonline.com/products/cloud-native-applications-with-jakarta-ee?_pos=1&_sid=5830136d5&_ss=r)    
+* [Building Enterprise Blockchain Solutions on AWS](https://in.bpbonline.com/products/building-enterprise-blockchain-solutions-on-aws?_pos=3&_sid=f3137f894&_ss=r)
+
